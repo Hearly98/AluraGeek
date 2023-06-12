@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/nav.css">
+    <link rel="stylesheet" href="/css/create.css">
+    <link rel="stylesheet" href="/css/botones.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Raleway:wght@100;400;500&display=swap" >
+</head>
+<body>
+    <header>
+        <nav class="nav-container">
+            <img class="logo-alura" src="../imagenes/logo-alura.png" alt="logo">
+            <!--<input type="search" name="buscador-alura" id="">-->
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </nav>
+    </header>
+    <section class="container-create">
+        <form class="create-section" data-form>
+            <h3 class="create-title">Crear Producto</h3>
+            <label for="text">Imagen</label>
+            <br>
+            <input type="text" class="input" data-img>
+            <br>
+            <label for="text">Nombre del Producto</label>
+            <br>
+            <input type="text" class="input" data-name>
+            <br>
+            <label for="text">Precio</label>
+            <br>
+            <input type="number" class="input" data-price>
+            <br>
+            <label for="text">Codigo</label>
+            <br>
+            <input type="text" class="input" data-code>
+            <br>
+            <label for="text">Categoria</label>
+            <br>
+            <input type="text" class="input" data-category>
+            <br>
+            <label for="text">Descripcion del producto</label>
+            <br>
+            <input type="text" class="input" data-description>
+            <br>
+            <a href=""><button type="submit" class="btn btn__blue">Crear Producto</button></a>
+        </form>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuid.min.js" integrity="sha512-UNM1njAgOFUa74Z0bADwAq8gbTcqZC8Ej4xPSzpnh0l6KMevwvkBvbldF9uR++qKeJ+MOZHRjV1HZjoRvjDfNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="module" src="../js/registro-controller.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+</body>
+</html>

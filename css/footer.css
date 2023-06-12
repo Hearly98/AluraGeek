@@ -1,0 +1,38 @@
+
+.container-footer{
+    background-color: #EAF2FD;
+    text-align: center;
+    list-style: none;
+}
+
+.footer-informacion{
+    margin-top: 15px;
+   text-decoration: none;
+   padding: 1rem;
+   color: black;
+}
+.contactanos{
+    text-align: start;
+}
+.textarea-contacto{
+    border: none;
+    resize: none;
+    margin: 5px 5px;
+    
+}
+.textarea-contacto::placeholder{
+    color: #bcbcbc;
+    font-size: 1rem;
+}
+
+.autor{
+    display: flexbox;
+    background-color: #ffff;
+    padding: 24px;
+    font-weight: 600;
+
+}
+span{
+    font-size: 0.86rem;
+    color: #a19f9f;
+}

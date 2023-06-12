@@ -1,0 +1,180 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "img": "sonic.png",
+      "nombre": "Sonic",
+      "precio": "10",
+      "codigo": "1200",
+      "id": "6f07446f-720b-4b15-897e-d6dd4d9eda59",
+      "categoria": "diversos",
+      "descripcion": "kadmokmspodapoda"
+    },
+    {
+      "img": "peluche-pikachu.png",
+      "nombre": "Peluche Pikachu",
+      "precio": "300",
+      "codigo": "1112",
+      "categoria": "diversos",
+      "descripcion": "dsofmsdofmsdopfms,dpfos,",
+      "id": "f8567a80-16a9-4c4a-9f2a-3d3e0ff5bc2c"
+    },
+    {
+      "img": "dark-bader.png",
+      "nombre": "Lego Darth Vader",
+      "precio": "50",
+      "codigo": "1113",
+      "id": "a92d73a7-60cd-4bae-8731-b46736cfc8ed",
+      "categoria": "star-wars",
+      "descripcion": "andaoiksdmpasdmpasodmpasd"
+    },
+    {
+      "img": "mini-yoda.png",
+      "nombre": "Mini Yoda",
+      "precio": "105",
+      "codigo": "1114",
+      "categoria": "star-wars",
+      "descripcion": "naodmoasmdaspoda",
+      "id": "f7778fd8-8cc2-43ec-a9d6-1f76e8463058"
+    },
+    {
+      "img": "soldado-imperio.png",
+      "nombre": "Soldado Star Wars",
+      "precio": "310",
+      "codigo": "1118",
+      "categoria": "star-wars",
+      "descripcion": "ndfsofnmdsofimsdofimsdf",
+      "id": "6e12a88d-c300-4ed2-80aa-c42efe48dcca"
+    },
+    {
+      "img": "mercenario.png",
+      "nombre": "Mercenario Star Wars",
+      "precio": "400",
+      "codigo": "1119",
+      "id": "976ef782-65cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "star-wars",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "yoda.png",
+      "nombre": "Figura de Yoda",
+      "precio": "20",
+      "codigo": "1120",
+      "id": "976ef782-65cf-42e2-95b3-5bff6e6b8a29",
+      "categoria": "star-wars",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "star-wars.png",
+      "nombre": "Tasa Modelo Soldado",
+      "precio": "15",
+      "codigo": "1121",
+      "id": "976ef782-65cf-42e2-95b3-5bff6e6b8a22",
+      "categoria": "star-wars",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "xbox.png",
+      "nombre": "Consola XBOX",
+      "precio": "1900",
+      "codigo": "1125",
+      "id": "976ef782-65cf-42e2-95b3-5bff6a6b8a21",
+      "categoria": "consolas",
+      "descripcion": "lorem imsup"
+    },
+    {
+      "img": "switch.png",
+      "nombre": "Nintendo Switch",
+      "precio": "2500",
+      "codigo": "1219",
+      "id": "976ef782-65cf-42e2-95b4-5bff6e6b8a21",
+      "categoria": "consolas",
+      "descripcion": "ololrloremasdmaspodkmsadadasdaaaa"
+    },
+    {
+      "img": "consola-nintendo.png",
+      "nombre": "Consola Nintendo IS",
+      "precio": "500",
+      "codigo": "1319",
+      "id": "976ef781-65cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "consolas",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "play5.png",
+      "nombre": "PlayStation 5 Pro",
+      "precio": "4400",
+      "codigo": "2012",
+      "id": "976ef784-65cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "consolas",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "game-boy.png",
+      "nombre": "GameBoy",
+      "precio": "100",
+      "codigo": "3119",
+      "id": "976ef782-75cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "consolas",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "console.png",
+      "nombre": "Mando XBOX",
+      "precio": "400",
+      "codigo": "1519",
+      "id": "976ef782-65cf-43e2-95b3-5bff6e6b8a21",
+      "categoria": "consolas",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "camisa-atari.png",
+      "nombre": "Polo Atari",
+      "precio": "30",
+      "codigo": "6119",
+      "id": "976ef782-61cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "diversos",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "camisa-switch.png",
+      "nombre": "Polo Nintendo",
+      "precio": "30",
+      "codigo": "1190",
+      "id": "976ef782-65cf-42e2-95z3-5bff6e6b8a21",
+      "categoria": "diversos",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "gafas-vr.png",
+      "nombre": "Oculus PS",
+      "precio": "900",
+      "codigo": "1519",
+      "id": "976ef682-65cf-42e2-95b3-5bff6e6b8a21",
+      "categoria": "diversos",
+      "descripcion": "odoamdapso,dpasd"
+    },
+    {
+      "img": "reloj.png",
+      "nombre": "Reloj retro",
+      "precio": "400",
+      "codigo": "1100",
+      "id": "976ef782-65cg-42e2-95b3-5bff6e6b8a21",
+      "categoria": "diversos",
+      "descripcion": "odoamdapso,dpasd"
+    }
+  ]
+}

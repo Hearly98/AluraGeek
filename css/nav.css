@@ -1,0 +1,31 @@
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    justify-content: first baseline;
+}
+.nav-texto{
+    padding: 50px 0 5px 15px;
+    font-size: 0.85rem;
+}
+.logo-alura{
+    margin: 15px 0;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    border: 1px solid #2A7AE4;
+    font-size: 0.95rem;
+
+}
+.btn__login{
+    color: #2A7AE4;
+    background-color: #ffff;
+    margin-top: 25px;
+}
+.fa-solid{
+    margin-top: 25px;
+}
+.fa-magnifying-glass{
+    margin: 35px 10px 0 0;
+}
